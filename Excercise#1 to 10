@@ -1,0 +1,51 @@
+export {}
+let name = 'Bhuvana';
+console.log(message);
+
+
+ let comment:string;
+
+ let count: number;
+
+ let beginner:boolean;
+
+
+ let hworld:string='hello world';
+ console.log(message);
+
+ let value:number;
+  value:= 100;
+  console.log(number);
+
+
+let a: number;
+console.log (a);
+a=100;
+console.log(a);
+
+
+let vision:string;
+console.log(vision);
+vision ='hollo world';
+console.log(vision);
+
+let a:number;
+a=100;
+console.log(a);
+b=200;
+console.log(b);
+
+
+let worldToTn:string;
+worldToTn='hollo world';
+console.log(worldToTn);
+worldToTn='hello cuddalore';
+console.log(worldToTn);
+
+
+
+
+
+
+
+
